@@ -6,8 +6,22 @@ This repository contains material used to perform the analysis of perception shi
 T. Paccosi, S. Menini, E. Leonardelli, I. Barzon and S. Tonelli: **Scent and Sensibility: Perception Shifts in the Olfactory Domain** (2023). *In Proceedings of 4th International Workshop on Computational Approaches to Historical Language Change 2023 (LChange 2023)*. 
 
 
-**Benchmark**: A manually created benchmark with 16 smell sources ... 
+**Benchmark**: 
 
-**Data Raw**: Contains all the frame elements and sentences for the smell sources included in the paper.
+A manually created benchmark with 16 smell sources ... 
+
+**Data Raw**: 
+
+Contains all the frame elements and sentences for the smell sources included in the paper.
+
+**Embeddings**: 
+
+Contains two files with the vectors of each smell source in the time span used in the paper. 
+
+- a file containing the vectors generated from the frame elements
+
+- a file generated from all the text in the corpus
+
+
 
 Link to the system used to identify smell words, smell sources and qualities [link]
