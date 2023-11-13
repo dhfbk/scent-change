@@ -13,7 +13,7 @@ A manually created benchmark with 16 smell sources. For every source the type of
 
 ### Data Raw
 
-Contains all the frame elements and sentences for the smell sources included in the paper. 
+The folder contains all the frame elements and sentences in which the 5 smell sources we considered in our analysis (candle, ozone, incense, glove, and tobacco) are labelled as smell sources in the corpus. 
 
 ### Embeddings
 
