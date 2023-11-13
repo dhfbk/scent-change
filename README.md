@@ -9,11 +9,11 @@ The files are oganized in 3 folders:
 
 ### Benchmark
 
-A manually created benchmark with 16 smell sources ... 
+A manually created benchmark with 16 smell sources. For every source the type of perception shift (shift type) and the periods in which the shift occurs are provided (periods 1-3). For each period, we also provide a description of the main characterization of the smell underlining the possible shift occurring in that time window (topic period 1-3).  
 
 ### Data Raw
 
-Contains all the frame elements and sentences for the smell sources included in the paper.
+Contains all the frame elements and sentences for the smell sources included in the paper. 
 
 ### Embeddings
 
