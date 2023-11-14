@@ -25,4 +25,4 @@ Contains two files with the vectors of each smell source in the time span used i
 
 
 
-Link to the system used to identify smell words, smell sources and qualities [[link](https://smell-extractor.tools.eurecom.fr/)https://smell-extractor.tools.eurecom.fr/]
+Link to the system used to identify smell words, smell sources and qualities [[link](https://smell-extractor.tools.eurecom.fr/)https://smell-extractor.tools.eurecom.fr/)
